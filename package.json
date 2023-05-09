@@ -15,7 +15,7 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SirotovAlexander/Mimino/issues"
+    "url": "https://github.com/SirotovAlexander/Mimino"
   },
   "dependencies": {
     "aos": "^2.3.4",
